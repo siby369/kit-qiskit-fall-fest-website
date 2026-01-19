@@ -1,4 +1,4 @@
-# KIT Qiskit Fall Fest Website 🚀
+# KIT Qiskit Fall Fest Website
 
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub stars](https://img.shields.io/github/stars/siby369/kit-qiskit-fall-fest-website?style=social)](https://github.com/siby369/kit-qiskit-fall-fest-website/stargazers)
@@ -12,22 +12,22 @@ Official website for the KIT Qiskit Fall Fest - a quantum computing hackathon at
 🌐 Live Website: [Qiskit Fall Fest Website](https://kit-qiskit-fall-fest-website.vercel.app/)
 
 
-## ✨ Features
+## Features
 
-- 📅 Event schedule and agenda
-- 📝 Online registration system
-- 📚 Resources and learning materials
-- 👥 Team and organizer profiles
-- 📱 Fully responsive design
-- ⚡ Fast and lightweight
+- Event schedule and agenda
+- Online registration system
+- Resources and learning materials
+- Team and organizer profiles
+- Fully responsive design
+- Fast and lightweight
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## 🚀 Quick Start
+## Quick Start
 
 ```bash
 # Clone the repository
@@ -52,7 +52,7 @@ npx serve
 
 Then visit `http://localhost:8000`
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 kit-qiskit-fall-fest-website/
@@ -64,7 +64,7 @@ kit-qiskit-fall-fest-website/
 └── README.md           # Documentation
 ```
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are always welcome! Here's how you can help:
 
@@ -74,7 +74,7 @@ Contributions are always welcome! Here's how you can help:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
@@ -102,20 +102,20 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-## 📧 Contact
+## Contact
 
 **Event Organizers** - KIT Qiskit Fall Fest Team
 
 **Project Link:** [https://github.com/siby369/kit-qiskit-fall-fest-website](https://github.com/siby369/kit-qiskit-fall-fest-website)
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - [IBM Quantum](https://www.ibm.com/quantum) - For Qiskit and Fall Fest support
 - [Karlsruhe Institute of Technology](https://www.kit.edu/) - For hosting the event
 - [Qiskit Community](https://qiskit.org/) - For resources and inspiration
 - All contributors and participants
 
-## 🔗 Useful Links
+## Useful Links
 
 - [Qiskit Documentation](https://qiskit.org/documentation/)
 - [Qiskit Textbook](https://qiskit.org/textbook/)
@@ -125,5 +125,5 @@ SOFTWARE.
 ---
 
 <p align="center">Made with ❤️ by the KIT Qiskit Fall Fest Team</p>
-<p align="center">⚛️ Exploring Quantum Computing Together 🚀</p>
+<p align="center">Exploring Quantum Computing Together</p>
 
