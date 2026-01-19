@@ -11,6 +11,9 @@ Official website for the KIT Qiskit Fall Fest - a quantum computing hackathon at
 
 🌐 Live Website: [Qiskit Fall Fest Website](https://kit-qiskit-fall-fest-website.vercel.app/)
 
+## Screenshots
+
+![Website Homepage](public/preview.png)
 
 ## Features
 
